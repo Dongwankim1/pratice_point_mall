@@ -129,8 +129,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
-AWS_ACCESS_KEY_ID ='AKIATX5M6ECUWFBQZFHT'
-AWS_SECRET_ACCESS_KEY='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'
+AWS_ACCESS_KEY_ID =''
+AWS_SECRET_ACCESS_KEY=''
 
 AWS_STORAGE_BUCKET_NAME = 'cdn.pointmall.abcde'
 AWS_S3_CUSTOM_DOMAIN ='d3d70i8pdl4ado.cloudfront.net'
